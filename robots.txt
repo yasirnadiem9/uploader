@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: http://www.info.caa.co.uk/sitemap.xml
+Sitemap: http://www.classifications.dataproducts.nhs.uk/sitemap.xml
